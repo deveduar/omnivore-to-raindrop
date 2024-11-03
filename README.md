@@ -1,10 +1,11 @@
-# JSON to CSV Converter for Omnivore Exports
+# Omnivore JSON to Raindrop.io CSV Converter
 
-This is a command-line Python script for converting JSON files exported from [Omnivore](https://docs.omnivore.app/using/exporting.html) to CSV format, making them compatible with Raindrop.io. Omnivore is scheduled to shut down soon, so this tool helps users easily migrate their data.
+This is a command-line Python script for converting JSON files exported from [Omnivore](https://docs.omnivore.app/using/exporting.html) to CSV format, making them compatible with [Raindrop.io](https://raindrop.io/). Omnivore is scheduled to shut down soon, so this tool helps users easily migrate their data.
 
 ## Prerequisites
 
 - **Python 3**: Ensure that you have Python 3 installed. You can check your Python version by running:
+
   ```bash
   python3 --version
   ```
@@ -24,6 +25,7 @@ This is a command-line Python script for converting JSON files exported from [Om
 
 1. Open a terminal and navigate to the directory containing the script and your Omnivore JSON files.
 2. Run the script with the following command:
+
    ```bash
    python3 convert.py "metadata_*.json"
    ```
