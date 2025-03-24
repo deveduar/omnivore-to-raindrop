@@ -10,7 +10,7 @@ technologies:
   - "Data Conversion"
 links:
   - href: "https://github.com/deveduar/omnivore-to-raindrop"
-    label: "Omnivore to Raindrop GitHub Repository"
+    label: "GitHub"
 gallery:
   - "https://i.postimg.cc/HLT5MH2H/artem-sapegin-b18-TRXc8-UPQ-unsplash.jpg"
 features:
