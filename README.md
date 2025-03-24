@@ -1,3 +1,27 @@
+---
+id: 8
+title: "Omnivore JSON to Raindrop.io CSV Converter"
+description: "A Python script to convert Omnivore JSON exports to CSV format for easy migration to Raindrop.io."
+imageSrc: "https://i.postimg.cc/HLT5MH2H/artem-sapegin-b18-TRXc8-UPQ-unsplash.jpg"
+detailedDescription: "This Python script helps users convert JSON files exported from Omnivore into CSV format, making them compatible with Raindrop.io. It allows easy migration of data as Omnivore is scheduled to shut down."
+technologies:
+  - "Python"
+  - "Scripting"
+  - "Automation"
+  - "Data Conversion"
+links:
+  - href: "https://github.com/deveduar/omnivore-to-raindrop"
+    label: "Omnivore to Raindrop GitHub Repository"
+gallery:
+  - "https://i.postimg.cc/HLT5MH2H/artem-sapegin-b18-TRXc8-UPQ-unsplash.jpg"
+features:
+  - "Converts Omnivore JSON exports to CSV format."
+  - "Supports UTF-8 encoding for correct display of text data."
+  - "Batch processing of multiple JSON files based on filename pattern."
+  - "Generates CSV file compatible with Raindrop.io for easy import."
+
+---
+
 # Omnivore JSON to Raindrop.io CSV Converter
 
 This is a command-line Python script for converting JSON files exported from [Omnivore](https://docs.omnivore.app/using/exporting.html) to CSV format, making them compatible with [Raindrop.io](https://raindrop.io/). Omnivore is scheduled to shut down soon, so this tool helps users easily migrate their data.
