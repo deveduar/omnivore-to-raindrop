@@ -1,5 +1,4 @@
 ---
-id: 8
 title: "Omnivore JSON to Raindrop.io CSV Converter"
 description: "A Python script to convert Omnivore JSON exports to CSV format for easy migration to Raindrop.io."
 imageSrc: "https://i.postimg.cc/HLT5MH2H/artem-sapegin-b18-TRXc8-UPQ-unsplash.jpg"
